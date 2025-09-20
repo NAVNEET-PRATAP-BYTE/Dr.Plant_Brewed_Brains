@@ -3,6 +3,8 @@
 > **Snap. Diagnose. Treat. Save your plant.**  
 > An AI-powered plant health diagnosis app created by Team **Brewed Brains** for the NexHack hackathon under the theme **AI for Real-World Impact**.
 
+You can download the DR Plant presentation [here](https://github.com/NAVNEET-PRATAP-BYTE/PPT/blob/main/DR.Plant.pptx).
+
 ---
 
 ## 🚀 Overview
