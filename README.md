@@ -1,12 +1,47 @@
-# React + Vite
+# 🌱 Dr. Plant – Brewed Brains
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Snap. Diagnose. Treat. Save your plant.**  
+> An AI-powered plant health diagnosis app created by Team **Brewed Brains** for the NexHack hackathon under the theme **AI for Real-World Impact**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## Expanding the ESLint configuration
+**Dr. Plant** is a smart, inclusive platform that helps both farmers and urban gardeners take care of their plants.  
+Upload a photo, get instant disease detection, organic remedies, and smart reminders — all in one place.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+- 📸 **Real-time Diagnosis** – Detect plant diseases instantly from user photos.
+- 🌿 **Organic Recommendations** – Natural, chemical-free treatment tips.
+- 🔔 **Smart Reminders** – Alerts for watering, fertilizing, and other care tasks.
+- 🌐 **Multi-language & Offline Support** – Broader accessibility for rural areas.
+- 📜 **History Logs** – Past diagnoses stored for each plant.
+- ☁️ **Weather-based Recommendations** – Adjust care according to local conditions.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend:** React.js (Vite), TailwindCSS  
+- **Backend:** Node.js / Express (with database support)  
+- **AI Models:** PyTorch-based plant disease detection  
+- **Other:** GitHub Actions, APIs for weather, multilingual support
+
+---
+
+## 📂 Project Structure
+
+```bash
+Dr.Plant_Brewed_Brains/
+├── backend/                # API & Database code
+├── public/                 # Static assets
+├── src/                    # React.js frontend
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── assets/
+├── .gitignore
+├── package.json
+└── README.md
